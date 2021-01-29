@@ -1,28 +1,126 @@
 {
-    "bg": "https://eglu.pontofrio.com.br/wp-content/uploads/2013/09/breaking-bad.jpg",
+    "bg": "https://media.comicbook.com/2017/04/breaking-bad-988056.jpg",
     "title": "Quiz Breaking Bad da Karoline",
     "description": "Teste os seus conhecimentos sobre Breaking Bad, e vamos ver o quanto você conhece sobre a melhor série já existente.",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
+        "image": "https://observatoriodocinema.uol.com.br/wp-content/uploads/2020/06/breaking-bad-1.jpg",
+        "title": "Em que ano a série estreiou?",
         "description": "Essa é pra aquecer",
-        "answer": 2,
+        "answer": 0,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "2008",
+          "2009",
+          "2007",
+          "2010"
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
-        "description": "Faz tempo em haha",
+        "image": "https://i.pinimg.com/originals/cf/61/77/cf6177b6edf7ecab47a3392a3f22cedd.gif",
+        "title": "O que eles faziam para ganhar dinheiro?",
+        "description": "A pergunta mais fácil",
+        "answer": 2,
+        "alternatives": [
+           "Vendiam doces",
+           "Fizeram faculdade em TI e ganharam muito dinheiro",
+           "Vendiam drogas",
+           "Eram assassinos de aluguel"
+        ]
+      },
+      {
+        "image": "https://i.imgur.com/ns3eh0X.gif",
+        "title": "Qual era o nome da primeira namorada do Jessie?",
+        "description": "Está fácil ainda",
+        "answer": 3,
+        "alternatives": [
+           "Jessie",
+           "Judy",
+           "July",
+           "Jane"
+        ]
+      },
+      {
+        "image": "https://thumbs.gfycat.com/AgitatedThirstyAlaskanhusky-max-14mb.gif",
+        "title": "Qual era o nome do restaurante do Gus?",
+        "description": "",
         "answer": 0,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+           "Los Pollos Hermanos",
+           "KFC",
+           "Franguitos Hermosos",
+           "Popeyes"
+        ]
+      },
+      {
+        "image": "https://i.pinimg.com/originals/cf/61/77/cf6177b6edf7ecab47a3392a3f22cedd.gif",
+        "title": "O que eles faziam para ganhar dinheiro?",
+        "description": "A pergunta mais fácil",
+        "answer": 3,
+        "alternatives": [
+           "Vendiam doces",
+           "Fizeram faculdade em TI e ganharam muito dinheiro",
+           "Vendiam drogas",
+           "Eram assassinos de aluguel"
+        ]
+      },
+      {
+        "image": "https://i.pinimg.com/originals/cf/61/77/cf6177b6edf7ecab47a3392a3f22cedd.gif",
+        "title": "O que eles faziam para ganhar dinheiro?",
+        "description": "A pergunta mais fácil",
+        "answer": 3,
+        "alternatives": [
+           "Vendiam doces",
+           "Fizeram faculdade em TI e ganharam muito dinheiro",
+           "Vendiam drogas",
+           "Eram assassinos de aluguel"
+        ]
+      },
+      {
+        "image": "https://i.pinimg.com/originals/cf/61/77/cf6177b6edf7ecab47a3392a3f22cedd.gif",
+        "title": "Qual é a origem do auter ego(Hanserberg) do Walter?",
+        "description": "A pergunta mais fácil",
+        "answer": 3,
+        "alternatives": [
+           "Vendiam doces",
+           "Fizeram faculdade em TI e ganharam muito dinheiro",
+           "Vendiam drogas",
+           "Eram assassinos de aluguel"
+        ]
+      },
+      {
+        "image": "https://i.pinimg.com/originals/cf/61/77/cf6177b6edf7ecab47a3392a3f22cedd.gif",
+        "title": "Quem é a primeira pessoa da família do Walter que descobre sobre o tráfico?",
+        "description": "A pergunta mais fácil",
+        "answer": 1,
+        "alternatives": [
+           "Jesse",
+           "Skylar",
+           "Hank",
+           "Marie"
+        ]
+      },
+      {
+        "image": "https://i.pinimg.com/originals/cf/61/77/cf6177b6edf7ecab47a3392a3f22cedd.gif",
+        "title": "Qual é o motivo do Jessie ser expulsado da casa dos seus pais?",
+        "description": "A pergunta mais fácil",
+        "answer": 3,
+        "alternatives": [
+           "Os pais descobrem que ele é assassino",
+           "Os pais descobrem uma arma no quarto dele",
+           "Os pais veem ele vendendo drogas",
+           "Os pais acham um cigarro de maconha no quarto do irmão dele"
+        ]
+      },
+      {
+        "image": "https://i.pinimg.com/originals/cf/61/77/cf6177b6edf7ecab47a3392a3f22cedd.gif",
+        "title": "Qual estabelecimento era realizado a lavagem de dinheiro?",
+        "description": "A pergunta mais fácil",
+        "answer": 2,
+        "alternatives": [
+           "Salão de beleza",
+           "Posto de gasolina",
+           "Lava rápido",
+           "Fast Food"
         ]
       }
     ],
@@ -31,12 +129,12 @@
     ],
     "theme": {
       "colors": {
-        "primary": "#ffc107",
-        "secondary": "#00e676",
+        "primary": "#4caf50",
+        "secondary": "#8bc34a",
         "mainBg": "#171B35",
         "contrastText": "#FFFFFF",
-        "wrong": "#FF5722",
-        "success": "#4CAF50"
+        "wrong": "#f44336",
+        "success": "#43a047"
       },
       "borderRadius": "4px"
     }
