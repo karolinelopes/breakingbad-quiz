@@ -1,24 +1,60 @@
 {
-    "bg": "https://media.comicbook.com/2017/04/breaking-bad-988056.jpg",
-    "title": "Quiz Breaking Bad da Karoline",
+    "bg": "https://images6.alphacoders.com/321/thumb-1920-321927.jpg",
+    "title": "Quiz Breaking Bad feito por Karoline",
     "description": "Teste os seus conhecimentos sobre Breaking Bad, e vamos ver o quanto você conhece sobre a melhor série já existente.",
     "questions": [
       {
-        "image": "https://observatoriodocinema.uol.com.br/wp-content/uploads/2020/06/breaking-bad-1.jpg",
-        "title": "Em que ano a série estreiou?",
-        "description": "Essa é pra aquecer",
-        "answer": 0,
+        "image": "https://media1.giphy.com/media/3ohc10GA6j4XrLWzZK/giphy.gif",
+        "title": "Qual é o nome do alter ego do Walter?",
+        "description": "",
+        "answer": 2,
         "alternatives": [
-          "2008",
-          "2009",
-          "2007",
-          "2010"
+          "Valter Branco",
+          "El Barto",
+          "Heisenberg",
+          "Eisenbahn"
         ]
       },
       {
-        "image": "https://i.pinimg.com/originals/cf/61/77/cf6177b6edf7ecab47a3392a3f22cedd.gif",
+        "image": "https://64.media.tumblr.com/8c4edc9fa646225ba22a95bec790f4b7/tumblr_nhcouyA3oH1r7cf6no8_r1_250.gifv",
+        "title": "Qual era a profissão do pai de Jane?",
+        "description": "",
+        "answer": 3,
+        "alternatives": [
+           "Piloto de avião",
+           "Agente imobiliário",
+           "Contador",
+           "Controlador de tráfico áreo"
+        ]
+      },
+      {
+        "image": "https://media1.tenor.com/images/b4152b460f90dfe11492214c55f024ef/tenor.gif?itemid=5442088",
+        "title": "Qual é o nome do veneno?",
+        "description": "",
+        "answer": 0,
+        "alternatives": [
+           "Ricina",
+           "Veneno de rato",
+           "Remédios",
+           "Morfina"
+        ]
+      },
+      {
+        "image": "http://media.tumblr.com/tumblr_lo8y5sACTZ1qcjzcm.gif",
+        "title": "Qual era o departamento de polícia que o Hank trabalhava?",
+        "description": "",
+        "answer": 2,
+        "alternatives": [
+           "FBI",
+           "CIA",
+           "DEA",
+           "CPD"
+        ]
+      },
+      {
+        "image": "https://pa1.narvii.com/6875/cc7516c0680d39073106057f7b3722f699515f36r1-540-285_00.gif",
         "title": "O que eles faziam para ganhar dinheiro?",
-        "description": "A pergunta mais fácil",
+        "description": "",
         "answer": 2,
         "alternatives": [
            "Vendiam doces",
@@ -28,69 +64,33 @@
         ]
       },
       {
-        "image": "https://i.imgur.com/ns3eh0X.gif",
-        "title": "Qual era o nome da primeira namorada do Jessie?",
-        "description": "Está fácil ainda",
-        "answer": 3,
-        "alternatives": [
-           "Jessie",
-           "Judy",
-           "July",
-           "Jane"
-        ]
-      },
-      {
-        "image": "https://thumbs.gfycat.com/AgitatedThirstyAlaskanhusky-max-14mb.gif",
-        "title": "Qual era o nome do restaurante do Gus?",
+        "image": "https://i0.wp.com/24.media.tumblr.com/tumblr_mazvbjWbtA1r5zrr3o1_500.gif",
+        "title": "Qual é a origem deste urso?",
         "description": "",
-        "answer": 0,
+        "answer": 1,
         "alternatives": [
-           "Los Pollos Hermanos",
-           "KFC",
-           "Franguitos Hermosos",
-           "Popeyes"
+           "O Walter comprou para a sua filha",
+           "Caiu de um acidente de avião na piscina do Walter",
+           "Era do Walter Júnior quando ele era criança",
+           "Acharam no lixo"
         ]
       },
       {
-        "image": "https://i.pinimg.com/originals/cf/61/77/cf6177b6edf7ecab47a3392a3f22cedd.gif",
-        "title": "O que eles faziam para ganhar dinheiro?",
-        "description": "A pergunta mais fácil",
-        "answer": 3,
+        "image": "https://i.pinimg.com/originals/21/4c/18/214c180ec8a8c12dbf068222f08d2b5b.gif",
+        "title": "Qual era o bordão do advogado de Jesse e Walter?",
+        "description": "",
+        "answer": 1,
         "alternatives": [
-           "Vendiam doces",
-           "Fizeram faculdade em TI e ganharam muito dinheiro",
-           "Vendiam drogas",
-           "Eram assassinos de aluguel"
+           "If you need a lower, call Saul Goodman",
+           "Better Call Saul",
+           "Better Saul Goodman",
+           "Call me if you need help, Saul Godman"
         ]
       },
       {
-        "image": "https://i.pinimg.com/originals/cf/61/77/cf6177b6edf7ecab47a3392a3f22cedd.gif",
-        "title": "O que eles faziam para ganhar dinheiro?",
-        "description": "A pergunta mais fácil",
-        "answer": 3,
-        "alternatives": [
-           "Vendiam doces",
-           "Fizeram faculdade em TI e ganharam muito dinheiro",
-           "Vendiam drogas",
-           "Eram assassinos de aluguel"
-        ]
-      },
-      {
-        "image": "https://i.pinimg.com/originals/cf/61/77/cf6177b6edf7ecab47a3392a3f22cedd.gif",
-        "title": "Qual é a origem do auter ego(Hanserberg) do Walter?",
-        "description": "A pergunta mais fácil",
-        "answer": 3,
-        "alternatives": [
-           "Vendiam doces",
-           "Fizeram faculdade em TI e ganharam muito dinheiro",
-           "Vendiam drogas",
-           "Eram assassinos de aluguel"
-        ]
-      },
-      {
-        "image": "https://i.pinimg.com/originals/cf/61/77/cf6177b6edf7ecab47a3392a3f22cedd.gif",
+        "image": "https://observatoriodocinema.uol.com.br/wp-content/uploads/2020/07/Breaking-Bad-ok-1.jpg",
         "title": "Quem é a primeira pessoa da família do Walter que descobre sobre o tráfico?",
-        "description": "A pergunta mais fácil",
+        "description": "",
         "answer": 1,
         "alternatives": [
            "Jesse",
@@ -100,9 +100,9 @@
         ]
       },
       {
-        "image": "https://i.pinimg.com/originals/cf/61/77/cf6177b6edf7ecab47a3392a3f22cedd.gif",
-        "title": "Qual é o motivo do Jessie ser expulsado da casa dos seus pais?",
-        "description": "A pergunta mais fácil",
+        "image": "https://i.pinimg.com/originals/c7/a8/be/c7a8beedf4aeedee11799c86709d7f87.gif",
+        "title": "Qual é o motivo do Jessie ser expulso da casa de seus pais?",
+        "description": "",
         "answer": 3,
         "alternatives": [
            "Os pais descobrem que ele é assassino",
@@ -113,24 +113,24 @@
       },
       {
         "image": "https://i.pinimg.com/originals/cf/61/77/cf6177b6edf7ecab47a3392a3f22cedd.gif",
-        "title": "Qual estabelecimento era realizado a lavagem de dinheiro?",
-        "description": "A pergunta mais fácil",
-        "answer": 2,
+        "title": "Qual é o nome do filho da namorada do Jesse?",
+        "description": "",
+        "answer": 3,
         "alternatives": [
-           "Salão de beleza",
-           "Posto de gasolina",
-           "Lava rápido",
-           "Fast Food"
+           "Diego",
+           "Juan",
+           "Miguel",
+           "Brock"
         ]
       }
     ],
     "external": [
-      ""
+      "https://aluraquiz-css.omariosouto.vercel.app/"
     ],
     "theme": {
       "colors": {
-        "primary": "#4caf50",
-        "secondary": "#8bc34a",
+        "primary": "#03a9f4",
+        "secondary": "#d500f9",
         "mainBg": "#171B35",
         "contrastText": "#FFFFFF",
         "wrong": "#f44336",
