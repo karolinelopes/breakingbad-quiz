@@ -12,7 +12,6 @@ Ou também acessar o quiz por aqui: https://breakingbad-quiz-git-master.karoline
 - React js
 - JavaScript
 
-[![breakingbadquiz](http://img.youtube.com/vi/gWTV0RdRc0w/0.jpg)](http://www.youtube.com/watch?v=gWTV0RdRc0w "breaking bad quiz")
 
 
 
